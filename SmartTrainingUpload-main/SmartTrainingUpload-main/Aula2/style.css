@@ -1,0 +1,29 @@
+button {
+    padding: 8px 12px;
+    background-color: #0176e5;
+    color: #ffffff;
+    border: 1px solid #0164c4;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    margin: 5px;
+  }
+  
+  button:hover {
+    background-color: #0164c4;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  /* Windows XP native theme style */
+  button {
+    font-family: "Tahoma", sans-serif;
+  }
+  
+  body {
+    background-color: #d4d4d4;
+    font-family: "Tahoma", sans-serif;
+  }
+  
